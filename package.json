@@ -1,0 +1,19 @@
+{
+  "name": "server-php-laravel",
+  "version": "1.0.0",
+  "description": "Marker Server built with Laravel 4.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marker-enterprise/server-php.git"
+  },
+  "author": "Ahmad Moussawi",
+  "license": "GPL V2",
+  "bugs": {
+    "url": "https://github.com/marker-enterprise/server-php/issues"
+  },
+  "homepage": "https://github.com/marker-enterprise/server-php"
+}
